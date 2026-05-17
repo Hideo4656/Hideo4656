@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá, sou Eric Hideo. Como posso ajudar? 👋
+
+### Projetos WordPress
+https://colegiokidsmais.com.br
+https://www.nucleopitagoras.com.br/novo/
+https://tffalimentos.com.br/novo/
+https://g3sites.com/001/
+
+### Habilidades
 
 <!--
 **Hideo4656/Hideo4656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
