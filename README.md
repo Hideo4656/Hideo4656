@@ -2,7 +2,7 @@
 
 ### Projetos WordPress
 
-- <img src="https://colegiokidsmais.com.br/wp-content/uploads/2026/02/cropped-Favicon-Kids-Mais-32x32.png" sizes="32x32"> https://colegiokidsmais.com.br
+-  https://colegiokidsmais.com.br
 
 - https://www.nucleopitagoras.com.br/novo/
 
