@@ -1,10 +1,14 @@
 ## Olá, sou Eric Hideo. Como posso ajudar? 👋
 
 ### Projetos WordPress
-https://colegiokidsmais.com.br
-https://www.nucleopitagoras.com.br/novo/
-https://tffalimentos.com.br/novo/
-https://g3sites.com/001/
+
+- https://colegiokidsmais.com.br
+
+- https://www.nucleopitagoras.com.br/novo/
+
+- https://tffalimentos.com.br/novo/
+
+- https://g3sites.com/001/
 
 ### Habilidades
 
