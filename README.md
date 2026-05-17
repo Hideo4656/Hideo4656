@@ -1,9 +1,10 @@
 ## Olá, sou Eric Hideo. Como posso ajudar? 👋
 
-### Projetos WordPress <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/024247b2-b6e5-42a8-8b70-7ab7db1cfaeb" />
-
+### Projetos WordPress 💻 
 
 - https://colegiokidsmais.com.br
+
+  <img width="300" height="180" alt="image" src="https://github.com/user-attachments/assets/c3f71470-2a08-49a9-a26f-8a76aca81176" />
 
 - https://www.nucleopitagoras.com.br/novo/
 
@@ -11,7 +12,7 @@
 
 - https://g3sites.com/001/
 
-### Habilidades
+### Habilidades 🛠️​
 
 - Python
 
