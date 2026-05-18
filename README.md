@@ -22,6 +22,12 @@
 
 - HTML / CSS
 
+### Idiomas 🔊​
+
+- Inglês - Intermediário
+  
+- Espanhol - Básico
+
 <!--
 **Hideo4656/Hideo4656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
