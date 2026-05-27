@@ -14,13 +14,15 @@
 
 ### Habilidades 🛠️​
 
-- Python
+- Python - Intermediário
 
-- Javascript
+- Javascript - Básico
 
-- WordPress
+- WordPress - Avançado
 
-- HTML / CSS
+- HTML / CSS - Intermediário
+
+- Java - Básico
 
 ### Idiomas 🔊​
 
