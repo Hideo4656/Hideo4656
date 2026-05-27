@@ -30,9 +30,10 @@
 
 ### Experiência Profissional 💼​
 
-- Auxiliar na criação, personalização e manutenção de sites utilizando a plataforma wordpress com apoio do construtor visual elementor; apoio na configuração de páginas, menus, plugins e temas, garantindo o correto
-funcionamento e a responsividade dos sites; auxiliar nos ajustes visuais e estruturais conforme orientações da equipe, visando melhorar a experiência do usuário e o desempenho do site; auxiliar na atualização de
-conteúdos, testes de páginas e organização básica do site, seguindo boas práticas de desenvolvimento web.
+- Desenvolvedor Web na empresa G3 Sites Consultoria EIRELI.
+- Auxiliar na criação, personalização e manutenção de sites utilizando a plataforma Wordpress com apoio do construtor
+visual Elementor ajudando na configuração de páginas, menus, plugins e temas, garantindo o correto
+funcionamento e a responsividade dos sites.
 
 <!--
 **Hideo4656/Hideo4656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
